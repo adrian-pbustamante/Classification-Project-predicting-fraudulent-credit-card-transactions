@@ -1,6 +1,6 @@
 # Classification-Project-predicting-fraudulent-credit-card-transactions
 
-#### Adrian P. Bustamante
+#### Adrian P. Bustamante, Ph.D.
 #### adrianpebus@gmail.com
 
 ## Objective
